@@ -1,0 +1,2 @@
+# Exploratory-Analysis-of-Rain-Fall-Data-in-India-for-Agriculture
+This project presents an Exploratory Data Analysis (EDA) of rainfall data in India to understand seasonal patterns, regional variations, and long-term trends that impact agriculture. Since Indian agriculture largely depends on monsoon rainfall, analyzing rainfall data helps in better crop planning, drought prediction, and water resource management.
